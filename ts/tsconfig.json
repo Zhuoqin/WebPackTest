@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "pretty": true,
+    "skipLibCheck": true,
+    "target": "es5",
+    "lib": [
+      "es5",
+      "es6",
+      "dom"
+    ]
+  },
+  "files": [
+    "main.ts"
+  ],
+  "typeRoots": [
+    "node_modules/@types"
+  ],
+  "optimization": {
+    "minimize": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "A test for webpack",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zlan",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "typescript": "^2.7.2",
+    "ts-loader": "^4.0.0"
+  }
+}
